@@ -1,0 +1,27 @@
+_repo: Shafting-Pulleys-Belting-and-Rope-Transmission_61123
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Collins, Hubert E. (Hubert Edwin)
+    alias: Collins, Hubert Edwin
+    birthdate: 1872
+    deathdate: 1932
+    gutenberg_agent_id: '32846'
+    url: http://www.gutenberg.org/2009/agents/32846
+description: ''
+gutenberg_issued: '2020-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61123'
+  lccn: 08037200
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Power Handbooks
+subjects:
+- !lcc 'TJ'
+- !lcsh 'Power transmission'
+- GITenberg
+title: Shafting, Pulleys, Belting and Rope Transmission
+url: http://www.gutenberg.org/ebooks/61123
